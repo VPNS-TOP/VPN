@@ -10,3 +10,4 @@ vless://437016d2-56fb-40ff-9220-e60d54fd5b57@pl.datanode-internal.net:443?securi
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#🇺🇸 США
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.9.179:443#🇬🇧 Великобритания
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#🇫🇷 Франция
+vless://51278ccf-c9ad-438c-b9e7-12de5a9ac021@146.185.240.23:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#🇹🇷 Турция
