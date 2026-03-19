@@ -1,5 +1,21 @@
-#profile-title: Super VPN⚡ #profile-update-interval: 24 #support-url: https://t.me/NewsZL3YY #announce: Самый лутший VPN для обхода блокировок #subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-title: 🚀 5 class super ⚡ #profile-update-interval: 1 #support-url: https://t.me/+vyID61mewf43YTEy #announce: VPN для обхода While list для моего 5 класса 🚀#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&fp=chrome&type=tcp&sni=max.ru&sid=e473bbc75224b9df&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
-vless://19e5db6d-91f7-4d04-ab68-3cbbb4c3d0b5@79.137.174.164:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&fp=chrome&type=tcp&sni=m.vk.ru&sid=6419bed7fd0a2cff&flow=xtls-rprx-vision#🇮🇹 Италия
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&fp=chrome&type=tcp&sni=max.ru&sid=e473bbc75224b9df&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
+vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.173:443?encryption=none&security=reality&sni=download.max.ru&fp=randomized&pbk=Z_u_la9oXIj2mjlrBEDVmIxmOCZxcOM7u_UaWP5WNm4&sid=b6b6&spx=%2FCECXmnalxqPGwhJ&type=grpc&serviceName=telemetry.v1#🇪🇺 Авто | быстрый 🚀
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.173:443?encryption=none&security=reality&sni=download.max.ru&fp=randomized&pbk=Z_u_la9oXIj2mjlrBEDVmIxmOCZxcOM7u_UaWP5WNm4&sid=b6b6&spx=%2FCECXmnalxqPGwhJ&type=grpc&serviceName=telemetry.v1#🇳🇱 Нидерланды | Омега
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@92.255.108.103:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=wVLTwAy1IOWDHPRJK6QxQEVaDXDLuVQOjYWyuh0BEkc&sid=53&spx=%2Frr1xTxTKXSZEJpR&type=grpc&serviceName=#🇩🇪 Германия | Омега
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.188:443?encryption=none&security=reality&sni=disk.rzd.ru&fp=randomized&pbk=CpI1bDlcc1CHZcOjzYUyuKuoWupOXxmB15JW1f2D4FI&sid=9b3ccd&spx=%2FhvRBauZ8b2hFUH3&type=xhttp&mode=packet-up&path=%2F&xPaddingBytes=100-1000#🇳🇱 Нидерланды | Бета
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@94.228.118.155:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=rgTuNcR2cAa_SL0kZz5Jt4gQNeyEofhVL3syQBynUxU&sid=e7e1bb&spx=%2FyoBJYwbAEMZE27r&type=xhttp&mode=packet-up&path=%2F&xPaddingBytes=100-1000#🇩🇪 Германия | Бета
+
+trojan://94338c46-22be-11f1-ac66-0242ac130003@147.45.99.113:443?security=reality&type=tcp&headerType=http&host=disk.rzd.ru&sni=disk.rzd.ru&fp=randomized&pbk=oEmF34EHqlf16O01IZakgzt-X0Kf9VHP_u9fIuDFGmQ&sid=859b&spx=%2FYkqIM3Gver2emma#🇳🇱 Нидерланды | Гамма
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@217.199.253.174:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=Y2LegjDbAc4zh612fDuLuxJxoWEeR-YgEFsRIlPO9Ro&sid=abe78568ba024794&spx=%2F7LuqNj9UwicZkNP&type=tcp&flow=xtls-rprx-vision&headerType=none#🇹🇷 Турция | Омега
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@89.23.96.126:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=z-nYlltFQfybhmi-iZ16r8xXYNLC0iO0KN1VsJIMuGc&sid=5adbfaa8&spx=%2FyUnqWaMIlrUm7xd&type=tcp&flow=xtls-rprx-vision&headerType=none#🇯🇵 Япония | Омега
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@84.201.141.37:443?encryption=none&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=2gcs1RLT4dnIbmY0ImaacTDOV8Fvkv_iHJQJmAXHazI&sid=03c7eb9979941de0&spx=%2FJnTX0gjMnDmc7xH&type=grpc&mode=multi&serviceName=#🇪🇺 LTE | Эпсилон #1
+
+vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.173:443?encryption=none&security=reality&sni=download.max.ru&fp=randomized&pbk=Z_u_la9oXIj2mjlrBEDVmIxmOCZxcOM7u_UaWP5WNm4&sid=2306978500b921&spx=%2F0wlyxwBtJvWMIzC&type=grpc&serviceName=telemetry.v1#🇳🇱 Нидерланды | GameBoost-Alpha
