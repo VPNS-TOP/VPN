@@ -1,4 +1,8 @@
-#profile-title: 5 class super ⚡ #profile-update-interval: 1 #support-url: https://t.me/+vyID61mewf43YTEy #announce: Для моих Друзей 🚀⚡#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-title: 5 Class Super
+#profile-update-interval: 2
+#support-url: https://telegra.ph/Podderzhka-03-19-2
+#announce: Для моих друзей и класса⚡
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.173:443?encryption=none&security=reality&sni=download.max.ru&fp=randomized&pbk=Z_u_la9oXIj2mjlrBEDVmIxmOCZxcOM7u_UaWP5WNm4&sid=b6b6&spx=%2FCECXmnalxqPGwhJ&type=grpc&serviceName=telemetry.v1#🇪🇺 Авто | быстрый 🚀
 vless://94338c46-22be-11f1-ac66-0242ac130003@147.45.97.173:443?encryption=none&security=reality&sni=download.max.ru&fp=randomized&pbk=Z_u_la9oXIj2mjlrBEDVmIxmOCZxcOM7u_UaWP5WNm4&sid=b6b6&spx=%2FCECXmnalxqPGwhJ&type=grpc&serviceName=telemetry.v1#🇳🇱 Нидерланды | Омега
